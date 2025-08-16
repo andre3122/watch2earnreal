@@ -51,7 +51,7 @@
   };
 
   // Replace with your bot username to generate referral link
-  const BOT_USERNAME = "watch2earnreall_bot"; // e.g., "watch2earnreall_bot"
+  const BOT_USERNAME = ""; // e.g., "watch2earnreall_bot"
 
   function money(n) { return `$${Number(n).toFixed(2)}`; }
 
@@ -214,7 +214,7 @@
   }
 
   // Monetag integration (placeholder)
-  const MONETAG_FN = "show_9726748"; // Replace to match your data-sdk
+  const MONETAG_FN = "show_"; // Replace to match your data-sdk
   function showMonetagAd() {
     // Try to call Monetag SDK function if available
     const fn = window[MONETAG_FN];
