@@ -214,7 +214,7 @@
   }
 
   // Monetag integration (placeholder)
-  const MONETAG_FN = "show_YOUR_ZONE_ID"; // Replace to match your data-sdk
+  const MONETAG_FN = "show_9726748"; // Replace to match your data-sdk
   function showMonetagAd() {
     // Try to call Monetag SDK function if available
     const fn = window[MONETAG_FN];
