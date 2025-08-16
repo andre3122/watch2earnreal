@@ -51,7 +51,7 @@
   };
 
   // Replace with your bot username to generate referral link
-  const BOT_USERNAME = "YOUR_BOT_USERNAME"; // e.g., "watch2earnreall_bot"
+  const BOT_USERNAME = "watch2earnreall_bot"; // e.g., "watch2earnreall_bot"
 
   function money(n) { return `$${Number(n).toFixed(2)}`; }
 
